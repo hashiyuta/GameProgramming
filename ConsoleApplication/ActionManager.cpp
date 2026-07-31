@@ -72,6 +72,7 @@ void ActionManager::ExecuteAction(Team& playerTeam, Team& enemyTeam, const Selec
     }
 }
 
+// —¼w‰c‚Ìs“®‚ªˆá‚¤ê‡‚Ìˆ—
 void ActionManager::OtherAction(Team& attackerTeam, int attackerIndex,
 								Team& defenderTeam, int defenderIndex, bool playerAttacking)
 {
